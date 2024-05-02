@@ -1,0 +1,66 @@
+.header {
+    background-color: rgb(175, 13, 175);
+    margin-top: 0;
+    height: 40px;
+    width: 100%;
+    font-family: alpinet;
+}
+body {
+    margin: 0 0;
+    font-family: sans-serif;
+}
+.heading {
+    font-size: 1.7em;
+    color: rgb(243, 241, 241);
+    margin-top: 0;
+   position: absolute;
+   margin-left: 70px;
+   margin-top: 5px;   
+}
+input {
+    height: 35px;
+    border-color: rgb(200, 107, 243);
+    border-radius: 6px;
+    margin-top: 0;
+    margin-bottom: 40px;
+    font-size: 1rem;
+     font-family: Arial Rounded MT;
+     color: rgb(103, 6, 133);
+}
+.name {
+    margin: 70px 0px 15px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.email {
+    width: 90%;
+    margin-left: 20px;
+}
+.First {
+    margin-left: 20px;
+    margin-right: 260px;
+    width: 35%;
+}
+.Last {
+    width: 35%;
+}
+.Country  {
+    margin: 15px 350px 0px 20px;
+    width: 20%;
+}
+.State {
+    width: 20%;
+}
+.birth {
+    width: 12%;
+}
+.birthcontainer {
+    margin-left: 20px;
+    display: inline-block;
+}
+.vocalpart {
+    display: inline;
+}
+.vocaltext {
+    display: inline-block;
+}
